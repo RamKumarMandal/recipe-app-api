@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c85e2455-2c1d-4a05-bb0b-52dfa076f852" name="Default" comment="edit2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c85e2455-2c1d-4a05-bb0b-52dfa076f852" name="Default" comment="edit3">
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +14,7 @@
   </component>
   <component name="JupyterTrust" id="e2379c22-d711-403b-bd56-7a78a95ae70d" />
   <component name="ProjectId" id="1i2DVEi0qJyFBjGoUYp6q0L0eSH" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -98,7 +97,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit" />
     <MESSAGE value="edit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit1" />
+    <MESSAGE value="edit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="535" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601357865204">
