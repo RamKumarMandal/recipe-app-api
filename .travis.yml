@@ -1,7 +1,18 @@
 ---
 before_script: "pip install docker-compose"
 language: python
-python: "-\"3.6\""
+cache: pip
+python:
+  - "2.7"
+  - "3.4"
+  - "3.5"
+  - "3.6"
+  - "3.7"
+  - "nightly"
+  - "pypy"
+  - "pypy3.5"
+  - "pypy3.6"
+env: TOXENV=py
 script:
   - "docker compose app sh -c \"python manage.py test && flake8\""
 services:
