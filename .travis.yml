@@ -4,7 +4,7 @@ language: python
 cache: pip
 python:
   - "2.7"
-  - "3.4"
+  - "3.4.0"
 env: TOXENV=py
 script:
   - "docker compose app sh -c \"python manage.py test && flake8\""
