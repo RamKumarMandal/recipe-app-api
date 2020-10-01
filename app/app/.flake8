@@ -1,5 +1,5 @@
    [flake8]
-   maxlength=100,
+   max-line-lengt:160
    exclude=
    migrations,
    __pycache__,
