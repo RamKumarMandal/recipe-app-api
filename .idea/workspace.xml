@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c85e2455-2c1d-4a05-bb0b-52dfa076f852" name="Default" comment="edit15">
+      <change beforePath="$PROJECT_DIR$/app/.flake8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/manage.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/recipe-app-api" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-app-api" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipe-app-api/app/.flake8" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-app-api/app/.flake8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-app-api/recipe-app-api" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="BuildoutCfg&#10;Snowflake" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,6 +44,10 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\course\recipe-app-api\app" />
+      <recent name="E:\course\recipe-app-api\app\app" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\course\recipe-app-api\recipe-app-api\app" />
     </key>
@@ -97,7 +109,7 @@
       <workItem from="1601551902454" duration="7280000" />
       <workItem from="1601562969674" duration="63000" />
       <workItem from="1601563259319" duration="3172000" />
-      <workItem from="1601605540426" duration="667000" />
+      <workItem from="1601605540426" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="edit3">
       <created>1601407301188</created>
