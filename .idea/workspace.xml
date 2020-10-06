@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c85e2455-2c1d-4a05-bb0b-52dfa076f852" name="Default" comment="edit15">
+      <change afterPath="$PROJECT_DIR$/app/core/tests/_init_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/recipe-app-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recipe-app-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe-app-api" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,7 +45,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -101,7 +113,11 @@
       <workItem from="1601551902454" duration="7280000" />
       <workItem from="1601562969674" duration="63000" />
       <workItem from="1601563259319" duration="3172000" />
-      <workItem from="1601605540426" duration="4403000" />
+      <workItem from="1601605540426" duration="5861000" />
+      <workItem from="1601638821455" duration="2679000" />
+      <workItem from="1601734427742" duration="573000" />
+      <workItem from="1601745993379" duration="4118000" />
+      <workItem from="1601956237837" duration="2043000" />
     </task>
     <task id="LOCAL-00001" summary="edit3">
       <created>1601407301188</created>
@@ -124,6 +140,9 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/recipe-app-api" />
+    </ignored-roots>
     <MESSAGE value="edit" />
     <MESSAGE value="edit1" />
     <MESSAGE value="edit3" />
@@ -143,6 +162,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="410" y="179" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601563517044" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601956337100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601956337100" />
     <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1601552334237">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -159,10 +182,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="122" y="64" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1601407286181" />
-    <state x="253" y="57" key="SettingsEditor" timestamp="1601562443464">
+    <state x="253" y="57" key="SettingsEditor" timestamp="1601746303689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="253" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601562443464" />
+    <state x="253" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601746303689" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601552352070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
